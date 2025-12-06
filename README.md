@@ -16,7 +16,7 @@ Seluruh data disimpan di dalam array lokal (books.js) tanpa database eksternal.
 **📁 Struktur Proyek**
 
 ```
-bookshelfapi/
+Bookshelf-API/
 ├── src/
 │   ├── server.js
 │   ├── routes/
@@ -33,7 +33,7 @@ bookshelfapi/
 
 ### 1. Clone Repository & Masuk ke Folder
 ```bash
-cd Bookself-API
+cd Bookshelf-API
 ```
 
 ### 2. Install Dependencies
@@ -53,6 +53,6 @@ http://localhost:9000
 
 **📜 Lisensi & Hak Cipta**
 ```
-© 2025 Galih Permana.
+© 2025 Galih Permana Sidik.
 All rights reserved.
 ```
